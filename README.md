@@ -1,16 +1,15 @@
-### Hi there 👋
+# Brunno Raffael
 
-<!--
-**brunno-raffael/brunno-raffael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Estou na área de tecnologia desde 2012
+Procurando sempre evoluir e ajudar a resolver problemas utilizando a promogração.
+Sou um Desenvolvedor Pleno em Delphi :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **OG1**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com Delphi 
+ <br/> :computer: &nbsp; Estudando a stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, hqs, jiu-jitsu e cultura pop em geral
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunnoRaffael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-raffael-53ba2ba9/)](https://www.linkedin.com/in/brunno-raffael-53ba2ba9/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-brunno.lemos0gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunno.lemos@gmail.com)](mailto:brunno.lemos0@gmail.com)
