@@ -1,8 +1,8 @@
 # Brunno Raffael
 
 ## Olá pessoal 👋
-Estou na área de tecnologia desde 2012
-Procurando sempre evoluir e ajudar a resolver problemas utilizando a promogração.
+Estou na área de tecnologia desde 2012 <br/>
+Procurando sempre evoluir e ajudar a resolver problemas utilizando a promogração. <br/>
 Sou um Desenvolvedor Pleno em Delphi :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **OG1**
