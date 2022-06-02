@@ -1,14 +1,15 @@
 # Brunno Raffael
 
 ## Olá pessoal 👋
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela UMJ - Centro Universitário Mario Pontes Jucá - 2020
 Estou na área de tecnologia desde 2012 <br/>
 Procurando sempre evoluir e ajudar a resolver problemas utilizando a promogração. <br/>
 Sou um Desenvolvedor Pleno em Delphi :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **OG1**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ :rocket:  &nbsp; Estou trabalhando na **![TEx](https://www.textecnologia.com.br/)**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Python
  <br/> :blush: &nbsp; Posso te ajudar com Delphi 
- <br/> :computer: &nbsp; Estudando a stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Estudando: Python
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, hqs, jiu-jitsu e cultura pop em geral
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunnoRaffael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-raffael-53ba2ba9/)](https://www.linkedin.com/in/brunno-raffael-53ba2ba9/) 
 | 
