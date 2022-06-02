@@ -13,10 +13,10 @@ Olá, eu sou o Brunno Raffael! 🇧🇷
 
 </h3>
 
+Sou um Desenvolvedor Pleno em Delphi :computer:
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela UMJ - Centro Universitário Mario Pontes Jucá - 2020 <br/>
 Estou na área de tecnologia desde 2012 <br/>
 Procurando sempre evoluir e ajudar a resolver problemas utilizando a promogração. <br/>
-Sou um Desenvolvedor Pleno em Delphi :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **[TEx](https://www.textecnologia.com.br/)**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Python
