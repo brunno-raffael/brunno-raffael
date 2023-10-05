@@ -1,5 +1,5 @@
-<h4 align="center">
 <hr>
+<h4 align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-BrunnoRaffael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-raffael-53ba2ba9/)](https://www.linkedin.com/in/brunno-raffael-53ba2ba9/) 
 [![Instagram Badge](https://img.shields.io/badge/-brunnoraffael90-red?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/brunno-raffael)](https://www.instagram.com/brunnoraffael90/)
@@ -8,9 +8,7 @@
 </h4>
 
 <h3 align="center"> 
-
 Olá, eu sou o Brunno Raffael! 🇧🇷
-
 </h3>
 
 Sou um Desenvolvedor Pleno em Delphi :computer:
@@ -23,4 +21,15 @@ Procurando sempre evoluir e ajudar a resolver problemas utilizando a promograç�
  <br/> :blush: &nbsp; Posso te ajudar com Delphi 
  <br/> :computer: &nbsp; Estudando: Python
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, hqs, jiu-jitsu e cultura pop em geral
+<hr>
+
+<h3 align="center"> 
+🤖 Meus Stats
+</h3>
+
+<div style="display: inline_block;" align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunno-raffael&show_icons=true&theme=tokyonight&count_private=true&border_radius=22"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunno-raffael&layout=compact&langs_count=7&theme=tokyonight&border_radius=16"/>
+</div>
+
 <hr>
