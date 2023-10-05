@@ -2,7 +2,7 @@
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-BrunnoRaffael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-raffael-53ba2ba9/)](https://www.linkedin.com/in/brunno-raffael-53ba2ba9/) 
-[![Instagram Badge](https://img.shields.io/badge/-brunnoraffael90-red?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
+[![Instagram Badge](https://img.shields.io/badge/-brunnoraffael90-red?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/brunno-raffael)](https://www.instagram.com/brunnoraffael90/)
 [![Gmail Badge](https://img.shields.io/badge/-brunno.lemos0gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunno.lemos@gmail.com)](mailto:brunno.lemos0@gmail.com)
 
 </h4>
