@@ -33,3 +33,11 @@ Procurando sempre evoluir e ajudar a resolver problemas utilizando a promograç�
 </div>
 
 <hr>
+
+<h3 align="center"> 
+ 💻 Meus Estudos
+</h3>
+
+<div style="display: inline_block;" align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66e8cad2f34c8868ecbafc30?variant=dark" alt="roadmap.sh"/></a>
+</div>
